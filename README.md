@@ -1,8 +1,9 @@
 # Countdown_webpage
-Time and date countdown using JavaScript
+
+This website includes a time and date countdown using JavaScript. 
 
 ![Countdown Screenshot](images/Screenshot.png)
 
 ## Live Demo
 
-You can try out the live demo [here](https://algomystique.github.io/Countdown_webpage)
+Check out the live demo [here](https://algomystique.github.io/Countdown_webpage)
